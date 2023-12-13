@@ -3,7 +3,7 @@
   - 🌞 I'm conducting research on Atmospheric Photochemistry
   - 🔭 I'm interested in Photochemistry, Climate Modelling, Paleoclimate, and Exoplanet Atmospheres 
   - 👯 I’m looking to collaborate on any of the interests listed above
-  
+</p>
 <!-- Social Section -->
 <p align="center">
   Get In Touch!
