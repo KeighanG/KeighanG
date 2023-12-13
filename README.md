@@ -1,7 +1,7 @@
 
 * 🧪 PhD Student at the University of British Columbia, Canada
 * 🌞 Conducting research on Atmospheric Photochemistry
-* 🔭 Interested in Photochemistry, Prebiotic Chemistry, Climate Modelling, Paleoclimate, and Exoplanet Atmospheres
+* 🔭 Interested in Photochemistry, Climate Modelling, Paleoclimate, Early Earth Environments, and Exoplanet Atmospheres
 * 👯 Looking to collaborate on any of the interests listed above! 
 
 <!-- Social Section -->
