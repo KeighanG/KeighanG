@@ -23,7 +23,7 @@
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
   </a>
   <a href="mailto:keighan@chem.ubc.ca">
-    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/mail.png"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/689d6a/physics.png"/>
   </a>
 
   
