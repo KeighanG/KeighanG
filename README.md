@@ -8,7 +8,7 @@
   Get In Touch!
 
 <p align="center">
-  <a href="www.linkedin.com/in/keighan-gemmell">
+  <a href="https://linkedin.com/in/keighan-gemmell">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
   <a href="https://github.com/KeighanG/">
