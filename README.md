@@ -8,11 +8,11 @@
   Get In Touch!
 
 <p align="center">
-  <a href= "https://github.com/KeighanG/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
-  </a>
-  <a href= "www.linkedin.com/in/keighan-gemmell">
+  <a href="www.linkedin.com/in/keighan-gemmell">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
+  </a>
+  <a href="https://github.com/KeighanG/">
+    <img src="https://img.icons8.com/material-outlined/30/689d6a/source-code.png"/>
   </a>
   <a href="https://orcid.org/0009-0008-1736-9820">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
