@@ -14,7 +14,7 @@
   <a href= "www.linkedin.com/in/keighan-gemmell">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href="[https://orcid.org/0000-0002-9604-3069](https://orcid.org/0009-0008-1736-9820)">
+  <a href="https://orcid.org/0009-0008-1736-9820">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/camera-addon-identification.png"/>
   </a>
   <a href="mailto:keighan@chem.ubc.ca">
