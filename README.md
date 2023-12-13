@@ -1,6 +1,6 @@
-- 🧪 PhD Student at the University of British Columbia, Canada
-- 🌞 Working on Atmospheric Photochemsitry
-- 🔭 Interested in Photochemical processes, Climate Modelling, Paleoclimate, and Exoplanet Atmospheres 
+- 🧪 I am a PhD Student at the University of British Columbia, Canada
+- 🌞 I am conducting research on Atmospheric Photochemistry
+- 🔭 I'm Interested in Photochemistry, Climate Modelling, Paleoclimate, and Exoplanet Atmospheres 
 - 👯 I’m looking to collaborate on any of the above projects! 
   
 <!-- Social Section -->
