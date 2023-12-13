@@ -4,10 +4,10 @@
 - 👯 I’m looking to collaborate on any of the interests listed above
   
 <!-- Social Section -->
-<p align="center">
+
   Get In Touch!
 
-<p align="center">
+
   <a href="https://linkedin.com/in/keighan-gemmell">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
